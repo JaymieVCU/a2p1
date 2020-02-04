@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Circle Application</string>
+    <string name="enter_the_radius">Enter the radius:</string>
+    <string name="circle_fun">CIRCLE FUN</string>
+    <string name="calculate">Calculate</string>
+    <string name="enter_radius">Enter radius.</string>
+    <string name="textview"> </string>
+    <string name="e">e</string>
+</resources>
